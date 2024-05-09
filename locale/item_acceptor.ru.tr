@@ -1,0 +1,8 @@
+# textdomain: item_acceptor
+
+
+### lathe.lua ###
+Item acceptor=Предметоприёмник
+not configured=не настроен
+Owned by @1=Принадлежит @1
+full=переполнен
