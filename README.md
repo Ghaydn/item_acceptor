@@ -44,4 +44,4 @@ Some items cannot be used, as they have on_place redefined weirdly.
 License for all code: AGPL 3.0
 License for all media and all other assets:  CC-BY-SA 4.0
 
-see LICENSE.txt
+see LICENSE for details
