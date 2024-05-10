@@ -18,6 +18,7 @@ configured (no items in the top cell) or full.
 
 ## Crafting recipe
 
+```
 I - iron ingot
 C - default chest
 M - mesecon wire
@@ -25,6 +26,7 @@ M - mesecon wire
 III
  CM
 III
+```
 
 ## Known issues
 
